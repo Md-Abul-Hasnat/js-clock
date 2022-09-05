@@ -66,7 +66,7 @@ body {
 }
 
 .time .four {
-  top: 300px;
+  top: 305px;
   right: 40px;
 }
 
@@ -79,16 +79,17 @@ body {
   bottom: 8px;
   left: 50%;
   transform: translateX(-50%);
+  margin-left: 2px;
 }
 
 .time .seven {
-  bottom: 35px;
-  left: 110px;
+  bottom: 33px;
+  left: 115px;
 }
 
 .time .eight {
-  left: 35px;
-  top: 295px;
+  left: 40px;
+  top: 305px;
 }
 
 .time .nine {
@@ -99,7 +100,7 @@ body {
 
 .time .ten {
   left: 35px;
-  top: 110px;
+  top: 105px;
 }
 
 .time .eleven {
